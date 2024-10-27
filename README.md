@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me : My Linkedin profile is www.linkedin.com/in/roopasree-challa-ab580731b
+- 📫 How to reach me : My Linkedin profile is www.linkedin.com/in/roopasreechalla
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I am also interested in Entrepreneuship.
 
