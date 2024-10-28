@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roopasree Challa
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Coding and Technology
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me : My Linkedin profile is www.linkedin.com/in/roopasreechalla
