@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me : My Linkedin profile is www.linkedin.com/in/roopasreechalla
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I am also interested in Entrepreneuship.
+- ⚡ Fun fact: I start many things and quit them without completing.
 
 <!---
 Roopasree-git/Roopasree-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
